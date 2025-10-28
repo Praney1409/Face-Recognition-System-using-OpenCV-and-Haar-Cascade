@@ -1,0 +1,14 @@
+opencv-python
+opencv-contrib-python
+numpy
+deepface
+tensorflow
+keras
+mtcnn
+speechrecognition
+gTTS
+playsound==1.2.2
+PyAudio
+tf-keras
+scikit-learn
+kivy
